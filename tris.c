@@ -1,3 +1,5 @@
+/* crea il gioco del tris in C PvP */
+
 #include <stdio.h>
 #include <stdbool.h>
 
