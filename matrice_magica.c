@@ -1,3 +1,9 @@
+/* crea una matrice magica, o quadrato magico, in C.
+ * Un quadrato magico è una tabella di forma quadrata (una matrice quadrata, sostanzialmente) 
+ * contenente tutti numeri distinti, tale per cui la somma degli elementi presenti su 
+ * ciascuna riga, ciascuna colonna e ciascuna diagonale sia sempre pari allo stesso numero.
+ */
+
 #include <stdio.h>
 
 int main(void)
