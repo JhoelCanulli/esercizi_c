@@ -32,8 +32,7 @@ int main(){
                 }
             }
         printf("\n[digitare q per uscire dal gioco, qualsiasi altro carattere per continuare]\n");
-        scanf("%c",&input);
-        while (getchar() != '\n');
+        scanf(" %c",&input);
 
         if(input == 'q'){
             break;
